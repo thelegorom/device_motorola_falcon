@@ -32,7 +32,7 @@ LOCAL_PATH := device/motorola/falcon
 TARGET_UNIFIED_DEVICE := true
 TARGET_INIT_VENDOR_LIB := libinit_msm
 TARGET_LIBINIT_DEFINES_FILE := device/motorola/falcon/init/init_falcon.c
-
+TARGET_KERNEL_CUSTOM_TOOLCHAIN := sm-arm-eabi-4.10
 # Custom relese tools for unified devices
 TARGET_RELEASETOOLS_EXTENSIONS := device/motorola/falcon
 
