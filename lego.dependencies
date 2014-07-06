@@ -19,9 +19,9 @@
   },
   {
     "remote": "github",
-    "repository": "thelegorom/android_kernel_motorola_msm8226",
+    "repository": "LiquidSmooth-Devices/android_kernel_motorola_msm8226",
     "target_path": "kernel/motorola/msm8226",
-    "revision": "lego"
+    "revision": "kitkat"
   },
   {
     "remote": "github",
